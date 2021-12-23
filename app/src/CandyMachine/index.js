@@ -273,7 +273,7 @@ const [isLoadingMints, setIsLoadingMints] = useState(false);
   };
   useEffect(() => {
     getCandyMachineState();
-  });	
+  }, []);	
   
   const getProvider = () => {
     const rpcHost = process.env.REACT_APP_SOLANA_RPC_HOST;
