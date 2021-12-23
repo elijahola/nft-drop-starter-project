@@ -1,0 +1,19 @@
+{
+    "name": "Solana",
+    "symbol": "SOL",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DGPVdVB1xqNsiJ9v85sRJCwP5gYbecVDYwLBcDnv2VkA",
+          "share": 100
+        }
+      ]
+    }
+  }

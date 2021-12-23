@@ -32,6 +32,9 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
+  color: #ff52ff;
+  animation: gradient-animation 4s ease infinite;
+  text-shadow: 5px 5px 10px #4e44ce;
 }
 
 .sub-text {
